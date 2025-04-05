@@ -31,7 +31,7 @@ Se quiser ver o ícone de WhatsApp ao lado dos números, ative nas opções da e
 - Clique no ícone da extensão > **Opções da extensão**
 - Marque a caixa:
 
-![Opções da extensão](./extension-options-page.png)
+![Opções da extensão](./manual/extension-options-page.png)
 
 ---
 
@@ -44,7 +44,7 @@ Ao acessar uma página que contenha números como:
 
 O resultado será:
 
-![Exemplo de ícones aplicados](./page-sample-with-buttons.png)
+![Exemplo de ícones aplicados](./manual/page-sample-with-buttons.png)
 
 > Somente números com DDD e iniciados com 9, com formatação legível, terão ícone.
 
@@ -56,7 +56,7 @@ O resultado será:
 2. Clique com o **botão direito**.
 3. Clique em **“Abrir no WhatsApp Web”**:
 
-![Menu botão direito](./extension-options.png)
+![Menu botão direito](./manual/extension-options.png)
 
 ---
 
