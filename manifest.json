@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "Redirect2WppWeb",
+  "version": "1.0",
+  "description": "Destaca números de telefone e adiciona ícone clicável para abrir no WhatsApp Web.",
+  "options_page": "options.html",
+  "host_permissions": ["<all_urls>"],
+  "permissions": ["contextMenus", "storage", "scripting", "activeTab"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_security_policy": {
+	"extension_pages": "script-src 'self'; object-src 'self'"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "icons": {
+    "128": "icon.png"
+  },
+  "action": {
+    "default_title": "Redirect2WppWeb"
+  }
+}
