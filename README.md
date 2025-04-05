@@ -84,6 +84,26 @@ Apenas números de celular com DDD, iniciados com 9 e formatados de forma legív
 
 ---
 
+# Política de Privacidade — Redirect2WppWeb
+
+A extensão Redirect2WppWeb respeita sua privacidade. Nenhuma informação pessoal é coletada, armazenada ou compartilhada com terceiros.
+
+## O que a extensão faz?
+
+- Detecta números de telefone visíveis em páginas da web.
+- Gera um botão para abrir o WhatsApp Web com aquele número.
+- Permite redirecionamento via menu do botão direito.
+
+## O que ela **não** faz:
+
+- ❌ Não coleta dados pessoais.
+- ❌ Não envia dados para servidores.
+- ❌ Não usa cookies.
+- ❌ Não rastreia navegação.
+- ❌ Não integra com sistemas de terceiros.
+
+---
+
 ## 📄 Licença
 
 MIT © 2025
