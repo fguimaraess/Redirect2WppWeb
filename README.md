@@ -15,12 +15,12 @@
 
 ## 🧩 Como usar
 
-### ✅ 1. Carregar a extensão
+### ✅ 1. Baixar a extensão
 
 1. Acesse `chrome://extensions` (ou `edge://extensions`).
-2. Ative o **Modo do desenvolvedor**.
-3. Clique em **"Carregar sem compactação"**.
-4. Selecione a pasta onde está o `manifest.json` da extensão.
+2. Busque a extensão **Redirect2WppWeb**.
+3. Instale a extensão.
+
 
 ---
 
