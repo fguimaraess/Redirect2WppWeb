@@ -1,5 +1,6 @@
 function transformarNumerosEmLinks(node) {
-  const phoneRegex = /(?:\+55\s?)?\(?\d{2}\)?[\s-]?9\d{4}[-]\d{4}/g;
+  //const phoneRegex = /(?:\+55\s?)?\(?\d{2}\)?[\s-]?9\d{4}[-]\d{4}/g;
+  const phoneRegex = /(?:\+55\s?)?\(?\d{2}\)?[\s-]?\d{4,5}-\d{4}/g;
   const ignoreTags = ['SCRIPT', 'STYLE', 'TEXTAREA', 'INPUT'];
 
   // Etapa 1: coleta segura dos nós de texto
@@ -45,8 +46,8 @@ function transformarNumerosEmLinks(node) {
         icon.style.cursor = "pointer";
         icon.style.marginLeft = "5px";
 		icon.style.verticalAlign = "text-bottom";
-		icon.style.position = "relative";
-		icon.style.top = "2px";
+		//icon.style.position = "relative";
+		//icon.style.top = "2px";
 
         icon.title = `Abrir no WhatsApp: +${fullNumber}`;
 
