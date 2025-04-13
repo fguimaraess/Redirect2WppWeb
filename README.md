@@ -17,7 +17,7 @@
 
 ### ✅ 1. Baixar a extensão
 
-1. Acesse `chrome://extensions` (ou `edge://extensions`).
+1. Acesse `chrome://extensions` (edge: `edge://extensions`, firefox: `https://addons.mozilla.org/en-US/firefox/extensions`).
 2. Busque a extensão **Redirect2WppWeb**.
 3. Instale a extensão.
 
@@ -29,8 +29,9 @@
 Se quiser ver o ícone de WhatsApp ao lado dos números, ative nas opções da extensão:
 
 - Clique no ícone da extensão > **Opções da extensão**
-- Marque a caixa:
+![Menu botão direito](./manual/extension-options.png)
 
+- Marque a caixa:
 ![Opções da extensão](./manual/extension-options-page.png)
 
 ---
@@ -55,8 +56,6 @@ O resultado será:
 1. Selecione um número na página.
 2. Clique com o **botão direito**.
 3. Clique em **“Abrir no WhatsApp Web”**:
-
-![Menu botão direito](./manual/extension-options.png)
 
 ---
 
