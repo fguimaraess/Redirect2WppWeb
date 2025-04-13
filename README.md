@@ -1,6 +1,6 @@
 # 📲 Redirect2WppWeb
 
-**Redirect2WppWeb** é uma extensão para navegadores (Edge, Brave, Chrome) que transforma números de celular em links clicáveis para o WhatsApp Web — e ainda oferece um menu de atalho via clique com o botão direito.
+**Redirect2WppWeb** é uma extensão para navegadores (Edge, Brave, Chrome e Firefox) que transforma números de celular em links clicáveis para o WhatsApp Web — e ainda oferece um menu de atalho via clique com o botão direito.
 
 ---
 
