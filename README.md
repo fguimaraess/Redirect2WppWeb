@@ -76,10 +76,10 @@ Apenas números de celular com DDD, iniciados com 9 e formatados de forma legív
 
 ## 🌍 Compatível com:
 
-- Microsoft Edge ✅
 - Chrome ✅
 - Brave ✅
-- Firefox ✅ (com pequeno ajuste em permissões)
+- Microsoft Edge ✅ (https://partner.microsoft.com/pt-br/dashboard/microsoftedge/9677e02c-ec39-4e70-a0c5-4a81c6cb7607/packages/dashboard)
+- Firefox ✅ (https://addons.mozilla.org/pt-BR/firefox/addon/redirect2wppweb/)
 
 ---
 
